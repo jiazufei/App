@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://edu.jinwoniu.com/www/download/jinwoniu.ipa</string>
+					<string>http://122.112.12.201/www/download/jinwoniu.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,7 +19,7 @@
 				<key>bundle-identifier</key>
 				<string>com.bshinfo.jinwoniu</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
